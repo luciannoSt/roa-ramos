@@ -1,4 +1,7 @@
 body{
     background: linear-gradient(black,white,black);
     color: aqua;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
